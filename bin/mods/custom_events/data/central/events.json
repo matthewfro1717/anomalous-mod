@@ -1,0 +1,156 @@
+{
+	"song": {
+		"events": [
+			[
+				18823.5294117647,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"centralbammad"
+					]
+				]
+			],
+			[
+				28235.2941176471,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"centralbam"
+					]
+				]
+			],
+			[
+				52352.9411764707,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"centralbammad"
+					]
+				]
+			],
+			[
+				52941.1764705883,
+				[
+					[
+						"Change Character",
+						"1",
+						"centralbam"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				56470.5882352942,
+				[
+					[
+						"Change Character",
+						"1",
+						"centralbammad"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				65882.3529411767,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"centralbam"
+					]
+				]
+			],
+			[
+				72647.0588235296,
+				[
+					[
+						"Change Character",
+						"1",
+						"centralbammad"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				72941.1764705885,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"centralbam"
+					]
+				]
+			],
+			[
+				84705.8823529415,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"centralbammad"
+					]
+				]
+			],
+			[
+				94117.6470588238,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"centralbammad"
+					]
+				]
+			]
+		]
+	}
+}

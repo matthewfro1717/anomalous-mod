@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"triggerEffect",
+						"1, game",
+						""
+					],
+					[
+						"triggerEffect",
+						"1, hud",
+						""
+					]
+				]
+			],
+			[
+				66782.6086956523,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				99652.1739130437,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				100173.913043478,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"2"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"lacunafinal"
+					],
+					[
+						"Change Character",
+						"BF",
+						"bfob"
+					]
+				]
+			],
+			[
+				133565.217391305,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				183652.173913044,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"oblivion"
+					],
+					[
+						"Cam Boom Speed",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				217043.47826087,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="manbifinalwords.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="left0000" x="0" y="0" width="1040" height="817" frameX="0" frameY="0" frameWidth="1040" frameHeight="817"/>
+	<SubTexture name="left0001" x="1040" y="0" width="1040" height="817" frameX="0" frameY="0" frameWidth="1040" frameHeight="817"/>
+	<SubTexture name="down0000" x="2080" y="0" width="941" height="807" frameX="0" frameY="0" frameWidth="941" frameHeight="817"/>
+	<SubTexture name="down0001" x="3021" y="0" width="941" height="807" frameX="0" frameY="0" frameWidth="941" frameHeight="817"/>
+	<SubTexture name="up0000" x="0" y="817" width="963" height="850" frameX="0" frameY="0" frameWidth="963" frameHeight="850"/>
+	<SubTexture name="up0001" x="963" y="817" width="963" height="850" frameX="0" frameY="0" frameWidth="963" frameHeight="850"/>
+	<SubTexture name="right0000" x="2080" y="817" width="935" height="836" frameX="0" frameY="0" frameWidth="935" frameHeight="836"/>
+	<SubTexture name="right0001" x="3015" y="817" width="935" height="836" frameX="0" frameY="0" frameWidth="935" frameHeight="836"/>
+	<SubTexture name="idle0000" x="0" y="1667" width="940" height="819" frameX="0" frameY="0" frameWidth="940" frameHeight="819"/>
+</TextureAtlas>

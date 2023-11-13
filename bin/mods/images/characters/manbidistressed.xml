@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="manbidistressed.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="1305" height="931" frameX="0" frameY="0" frameWidth="1305" frameHeight="931"/>
+	<SubTexture name="idle0001" x="1305" y="0" width="1305" height="931" frameX="0" frameY="0" frameWidth="1305" frameHeight="931"/>
+	<SubTexture name="idle0002" x="0" y="931" width="1305" height="931" frameX="0" frameY="0" frameWidth="1305" frameHeight="931"/>
+
+	<SubTexture name="left0002" x="2610" y="0" width="1270" height="985" frameX="0" frameY="0" frameWidth="1270" frameHeight="985"/>
+	<SubTexture name="left0001" x="3880" y="0" width="1270" height="985" frameX="0" frameY="0" frameWidth="1270" frameHeight="985"/>
+	<SubTexture name="left0000" x="2610" y="985" width="1270" height="985" frameX="0" frameY="0" frameWidth="1270" frameHeight="985"/>
+
+	<SubTexture name="down0000" x="0" y="1960" width="1071" height="900" frameX="0" frameY="0" frameWidth="1071" frameHeight="900"/>
+	<SubTexture name="down0001" x="1071" y="1960" width="1071" height="900" frameX="0" frameY="0" frameWidth="1071" frameHeight="900"/>
+	<SubTexture name="down0002" x="0" y="2860" width="1071" height="900" frameX="0" frameY="0" frameWidth="1071" frameHeight="900"/>
+
+	<SubTexture name="up0000" x="2142" y="1960" width="1029" height="956" frameX="0" frameY="0" frameWidth="1029" frameHeight="956"/>
+	<SubTexture name="up0001" x="3171" y="1960" width="1029" height="956" frameX="0" frameY="0" frameWidth="1029" frameHeight="956"/>
+	<SubTexture name="up0002" x="2142" y="2916" width="1029" height="956" frameX="0" frameY="0" frameWidth="1029" frameHeight="956"/>
+	<SubTexture name="up0003" x="3171" y="2916" width="1029" height="956" frameX="0" frameY="0" frameWidth="1029" frameHeight="956"/>
+
+	<SubTexture name="right0000" x="0" y="3872" width="1131" height="930" frameX="0" frameY="0" frameWidth="1131" frameHeight="930"/>
+	<SubTexture name="right0001" x="1131" y="3872" width="1131" height="930" frameX="0" frameY="0" frameWidth="1131" frameHeight="930"/>
+	<SubTexture name="right0002" x="0" y="4802" width="1131" height="930" frameX="0" frameY="0" frameWidth="1131" frameHeight="930"/>
+</TextureAtlas>

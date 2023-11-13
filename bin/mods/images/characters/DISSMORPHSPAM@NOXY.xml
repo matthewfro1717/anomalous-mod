@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DISSMORPHSPAM@NOXY.png">
+<SubTexture name="DISSMORPHSPAM@NOXY idle0000" x="0" y="0" width="374" height="378" frameX="-1" frameY="0" frameWidth="375" frameHeight="390" />
+</TextureAtlas>

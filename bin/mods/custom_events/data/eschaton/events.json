@@ -1,0 +1,291 @@
+{
+	"song": {
+		"events": [
+			[
+				149333.333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"sep"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				277333.333333334,
+				[
+					[
+						"Change Character",
+						"1",
+						"nihility"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				399999.999999999,
+				[
+					[
+						"Change Character",
+						"1",
+						"oppositionexpungedbside"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				485333.333333331,
+				[
+					[
+						"Change Character",
+						"1",
+						"bambi-angey"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				486666.666666664,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"sep"
+					]
+				]
+			],
+			[
+				487999.999999997,
+				[
+					[
+						"Change Character",
+						"1",
+						"nihility"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				489333.333333331,
+				[
+					[
+						"Change Character",
+						"1",
+						"oppositionexpungedbside"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				495999.999999998,
+				[
+					[
+						"Change Character",
+						"1",
+						"bambi-angey"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				497333.333333331,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"sep"
+					]
+				]
+			],
+			[
+				498666.666666664,
+				[
+					[
+						"Change Character",
+						"1",
+						"nihility"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				499999.999999997,
+				[
+					[
+						"Change Character",
+						"1",
+						"oppositionexpungedbside"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				506666.666666664,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"bambi-angey"
+					]
+				]
+			],
+			[
+				507999.999999997,
+				[
+					[
+						"Change Character",
+						"1",
+						"sep"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				509333.333333331,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"oppositionexpungedbside"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				517333.33333333,
+				[
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					],
+					[
+						"Change Character",
+						"1",
+						"nihility"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				519999.999999997,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"oppositionexpungedbside"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						""
+					]
+				]
+			]
+		]
+	}
+}

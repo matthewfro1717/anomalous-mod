@@ -1,0 +1,11 @@
+Value 1: effect code, camera or character
+effect code list
+1:ChromaticAbberation 7:Pulse
+2:Scanline                 8:Distortion
+3:Grain                     9:Invert
+4:Tiltshift                  10:Grayscale
+5:VCR                      11:3D
+6:Glitch                    12:Bloom
+Use this command to remove the effect
+Value 1: C
+Value 2: camera or character

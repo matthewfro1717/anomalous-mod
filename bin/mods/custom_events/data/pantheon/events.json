@@ -1,0 +1,1446 @@
+{
+	"song": {
+		"events": [
+			[
+				70054.054054054,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"conbilol2"
+					]
+				]
+			],
+			[
+				132324.324324325,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"strumswap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				236108.108108107,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					]
+				]
+			],
+			[
+				241297.297297296,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				246486.486486485,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				246810.81081081,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				247135.135135134,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				247459.459459458,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				247783.783783783,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				248108.108108107,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				248432.432432431,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				248756.756756756,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				249081.08108108,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				249405.405405404,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				249729.729729729,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				250054.054054053,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				250378.378378377,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				250702.702702701,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				251027.027027026,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				251351.35135135,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				256864.864864864,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				257189.189189188,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				257513.513513512,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				257837.837837837,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				258162.162162161,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				258486.486486485,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				258810.81081081,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				259135.135135134,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				259459.459459458,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				259783.783783783,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				260108.108108107,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				260432.432432431,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				260756.756756756,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				261081.08108108,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				261405.405405404,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				261729.729729728,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				267243.243243242,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				287999.999999999,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				288324.324324323,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				288648.648648647,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				288972.972972972,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				289297.297297296,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				289621.62162162,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				289945.945945945,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				290270.270270269,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				290594.594594593,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				290918.918918918,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				291243.243243242,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				291567.567567566,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				291891.891891891,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				292216.216216215,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				292540.540540539,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				292864.864864864,
+				[
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				298378.378378376,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"hazard"
+					],
+					[
+						"strumswap2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				394378.378378375,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"nogf"
+					]
+				]
+			],
+			[
+				453045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"panconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				495711.711711711,
+				[
+					[
+						"Change Character",
+						"1",
+						"blood"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				501045.045045045,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"rlyehian"
+					]
+				]
+			],
+			[
+				506378.378378378,
+				[
+					[
+						"Change Character",
+						"1",
+						"cyrill"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"strumswap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				511711.711711712,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"diaphon"
+					]
+				]
+			],
+			[
+				522378.378378379,
+				[
+					[
+						"strumswap2",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"blood"
+					]
+				]
+			],
+			[
+				527711.711711712,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"rlyehian"
+					]
+				]
+			],
+			[
+				533045.045045045,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"cyrill"
+					],
+					[
+						"strumswap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				538378.378378379,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"diaphon"
+					]
+				]
+			],
+			[
+				543711.711711712,
+				[
+					[
+						"strumswap2",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					]
+				]
+			],
+			[
+				549045.045045045,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				554378.378378379,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					],
+					[
+						"strumswap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				565045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Scroll Speed",
+						"2",
+						"1"
+					],
+					[
+						"strumswap2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				565378.378378376,
+				[
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				565711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				566045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					]
+				]
+			],
+			[
+				566378.378378376,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				566711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					]
+				]
+			],
+			[
+				567045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				567378.378378376,
+				[
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				567711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				568045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					]
+				]
+			],
+			[
+				568378.378378376,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				568711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					]
+				]
+			],
+			[
+				569045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				569378.378378376,
+				[
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				569711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				570045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					]
+				]
+			],
+			[
+				570378.378378376,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				570711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					]
+				]
+			],
+			[
+				571045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				571378.378378376,
+				[
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				571711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				572045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					]
+				]
+			],
+			[
+				572378.378378376,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				572711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					]
+				]
+			],
+			[
+				573045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				573378.378378376,
+				[
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				573711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				574045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					]
+				]
+			],
+			[
+				574378.378378376,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				574711.71171171,
+				[
+					[
+						"Change Character",
+						"1",
+						"culmination"
+					]
+				]
+			],
+			[
+				575045.045045043,
+				[
+					[
+						"Change Character",
+						"1",
+						"betrayed"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				575378.378378376,
+				[
+					[
+						"Change Character",
+						"1",
+						"vampirebambi"
+					]
+				]
+			],
+			[
+				586378.378378375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"panconbi"
+					]
+				]
+			],
+			[
+				589045.045045042,
+				[
+					[
+						"Change Character",
+						"1",
+						"conbilol2"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				591711.711711708,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"1",
+						"denoconbi"
+					]
+				]
+			],
+			[
+				594378.378378375,
+				[
+					[
+						"Change Character",
+						"1",
+						"pdepconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				597045.045045041,
+				[
+					[
+						"Change Character",
+						"1",
+						"hazard"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1 "
+					]
+				]
+			],
+			[
+				602378.378378375,
+				[
+					[
+						"Change Character",
+						"1",
+						"panconbi"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1 "
+					]
+				]
+			],
+			[
+				634378.378378372,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf-panDEATH"
+					],
+					[
+						"Play Animation",
+						"firstDeath",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

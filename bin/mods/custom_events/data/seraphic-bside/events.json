@@ -1,0 +1,706 @@
+{
+	"song": {
+		"events": [
+			[
+				19692.3076923077,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				28923.0769230769,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				29076.9230769231,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				29230.7692307692,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				29384.6153846154,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				29538.4615384615,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				38153.8461538462,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				39384.6153846154,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				98464.7435897438,
+				[
+					[
+						"Change Character",
+						"1",
+						"multicorn-bambib"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					],
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					],
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				108307.692307693,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				147692.307692308,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"3"
+					]
+				]
+			],
+			[
+				206769.23076923,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				225230.769230769,
+				[
+					[
+						"Change Character",
+						"2",
+						"oppositionexpunged"
+					]
+				]
+			],
+			[
+				226461.538461538,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				226464.743589743,
+				[
+					[
+						"Change Character",
+						"1",
+						"oppositionexpunged"
+					]
+				]
+			],
+			[
+				226467.948717948,
+				[
+					[
+						"Change Character",
+						"2",
+						"nogf"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					],
+					[
+						"Cam Boom Speed",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				227076.923076922,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				227230.769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				227384.615384615,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				227538.461538461,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				305230.769230769,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				305233.974358974,
+				[
+					[
+						"Change Character",
+						"1",
+						"thearchyexpunged"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				334769.230769231,
+				[
+					[
+						"bgchange",
+						"Omission",
+						".png"
+					]
+				]
+			],
+			[
+				334772.435897436,
+				[
+					[
+						"Change Character",
+						"1",
+						"Omission-bamb"
+					]
+				]
+			],
+			[
+				334775.641025641,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				443076.923076925,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				443080.12820513,
+				[
+					[
+						"Change Character",
+						"1",
+						"unstable"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				541538.461538465,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				541541.66666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"bambi-angey"
+					]
+				]
+			],
+			[
+				546461.538461542,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				546464.743589747,
+				[
+					[
+						"Change Character",
+						"1",
+						"multicorn-bambi"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				551384.615384619,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				551387.820512824,
+				[
+					[
+						"Change Character",
+						"1",
+						"oppositionexpunged"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				552615.384615388,
+				[
+					[
+						"Change Character",
+						"1",
+						"thearchyexpunged"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				556307.692307696,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				556310.897435901,
+				[
+					[
+						"Change Character",
+						"1",
+						"Omission-bamb"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				561230.769230773,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				561233.974358978,
+				[
+					[
+						"Change Character",
+						"1",
+						"unstable"
+					],
+					[
+						"setProperties",
+						"iconP2.antialiasing",
+						"false"
+					]
+				]
+			],
+			[
+				580923.076923081,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				581384.615384619,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				581846.153846157,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				582153.84615385,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				582615.384615388,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				583076.923076927,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				583384.615384619,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				583846.153846158,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				584307.692307696,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				584615.384615388,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				585076.923076927,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				585538.461538465,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				585846.153846158,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				586307.692307696,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				586769.230769234,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				587076.923076927,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				587538.461538465,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				588000.000000004,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				588307.692307696,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				588769.230769235,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				589230.769230773,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				589538.461538465,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				590000.000000004,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				590461.538461542,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				590769.230769235,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			]
+		]
+	}
+}

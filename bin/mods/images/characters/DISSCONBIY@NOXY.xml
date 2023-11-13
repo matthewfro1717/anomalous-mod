@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DISSCONBIY@NOXY.png">
+<SubTexture name="DISSCONBIY@NOXY idle0000" x="0" y="0" width="1897" height="1271" frameX="0" frameY="-19" frameWidth="1897" frameHeight="1306" />
+</TextureAtlas>

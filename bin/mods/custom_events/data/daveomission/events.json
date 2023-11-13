@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "lol",
+		"player1": "bf",
+		"player2": "im",
+		"player3": null,
+		"events": [
+			[
+				133670.886075949,
+				[
+					[
+						"Opponent Fade",
+						"10,38",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 316,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "omission"
+	}
+}
